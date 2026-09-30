@@ -1,0 +1,30 @@
+# Environments and Secrets
+.venv/
+env/
+venv/
+.env
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+.vite/
+
+# Databases & Local Cache
+data/nosql_db/*.json
+data/chroma_db/
+data/processed/faiss_index.bin
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

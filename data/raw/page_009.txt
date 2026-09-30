@@ -1,0 +1,59 @@
+9 
+ SECTIONS 
+314. Death caused by act done w ith intent to cause miscarriage. 
+if act done without woman's consent. 
+315. Act done with intent to prevent child being born alive or to cause it to die after birth. 
+316. Causing death of quick unborn child by act amounting to culpable homic ide. 
+317. Exposure and abandonment of child under twelve years, by parent or person having care of it. 
+318. Concealment of birth by secret disposal of dead body. 
+Of Hurt 
+319. Hurt. 
+320. Grievous hurt. 
+321. Voluntarily causing hurt. 
+322. Voluntarily causing grievous hurt. 
+323. Punishment for voluntarily causing hurt. 
+324. Voluntarily causing hurt by dangerous weapons or means. 
+325. Punishment for voluntarily causing grievous hurt. 
+326. Voluntarily causing grievous hurt by dangerous weapons or means. 
+326A. Voluntarily causing grievous hurt by use of acid, et c. 
+326B. Voluntarily throwing or attempting to throw acid. 
+327. Voluntarily causing hurt to extort property, or to constrain to an illegal act. 
+328. Causing hurt by means of poison, etc., with intent to commit an offence. 
+329. Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act. 
+330. Voluntarily causing hurt to extort confession, or to compel restoration of property. 
+331. Voluntarily causing grievous hurt to extort confession, or to compel restoration of property. 
+332. Voluntarily causing hurt to dete r public servant from his duty. 
+333. Voluntarily causing grievous hurt to deter public servant from his duty. 
+334. Voluntarily causing hurt on provocation. 
+335. Voluntarily causing grievous hurt on provocation. 
+336. Act endangering life or personal safety of others. 
+337. Causing hurt by act endangering life or personal safety of others. 
+338. Causing grievous hurt by act endangering life or personal safety of others. 
+Of wrongful restraint and wrongful confinement 
+339. Wrongful restraint. 
+340. Wrongful confinement. 
+341. Punishment for wrongful restraint. 
+342. Punishment for wrongful confinement. 
+343. Wrongful confinement for three or more days. 
+344. Wrongful confinement for ten or more days. 
+345. Wrongful confinement of person for whose liberation writ has been issued. 
+346. Wrongful confinement in secret. 
+347. Wrongful confi nement to extort property, or constrain to illegal act. 
+348. Wrongful confinement to extort confession, or compel restoration of property. 
+Of Criminal Force and Assault 
+349. Force. 
+350. Criminal force. 
+351. Assault. 
+352. Punishment for assault or criminal force otherwise than on g rave provocation. 
+353. Assault or criminal force to deter public servant from discharge of his duty. 
+354. Assault of criminal force to woman with intent to outrage her modesty. 
+354A. Sexual harassment and punishment for sexual harassment. 
+354B. Assault or use of criminal force to woman w ith intent to disrobe. 
+354C. Voy eurism. 
+354D. Stalking . 
+355. Assault or criminal force with intent to dishonour person, otherwise than on grave provocation. 
+356. Assault or criminal force in attempt to commit theft of property carried by a p erson. 
+357. Assault or criminal force in attempt wrongfully to confine a person. 
+358. Assault or criminal force on grave provocation. 
+Of Kidnapping, Abduction, Slavery and Forced Labour 
+359. Kidnapping.
